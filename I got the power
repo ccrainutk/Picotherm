@@ -10,3 +10,15 @@ Power requirements:
     12V
     199.98mA (~50mA each)
   
+
+
+BOM:
+  LM317T          x 2
+  0.1uF cap       x 3
+  10uF  cap       x 2
+  680 ohm resist  x 1
+  5k pot          x 1
+  ?360 ohm resist x1
+  ?3k pot         x1
+  
+  
