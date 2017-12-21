@@ -1,0 +1,11 @@
+Power requirements:
+  P-Valve Driver:
+    28.8V
+    <92mA
+  MKS iBaratron:
+    24V
+    100<x<350???
+  4 Analytical valves:
+    12V
+    199.98mA (~50mA each)
+  
