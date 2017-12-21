@@ -1,7 +1,8 @@
 Power requirements:
   P-Valve Driver:
-    28.8V
-    <92mA
+    28.8V     x<77.25mA
+    27V       x<77.05mA
+    24V       x<76.54mA
   MKS iBaratron:
     24V
     100<x<350???
